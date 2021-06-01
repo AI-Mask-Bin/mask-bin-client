@@ -6,7 +6,7 @@ import "../stylesheet/header.scss";
 const Header = () => {
   return (
     <div className="header">
-      <Link to="/mask-bin-client">
+      <Link to="/">
         <img className="header-logo" src={Logo4M} alt="logo" />
       </Link>
       <Link to="/login">

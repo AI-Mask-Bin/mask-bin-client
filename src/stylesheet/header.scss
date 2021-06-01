@@ -28,14 +28,17 @@
     text-align: center;
     display: flex;
     flex-direction: row;
+    cursor: pointer;
+    :hover {
+      background-color: #a9d18e83;
+    }
+
     .box {
       border: 1px solid #a9d18e;
       padding: 0px 7px 0px 7px;
       border-radius: 3px;
     }
-    .box:hover {
-      background-color: #a9d18e83;
-    }
+
     p {
       font-size: 10px;
       font-weight: 450;
