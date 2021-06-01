@@ -10,7 +10,7 @@ const Navigation = () => {
       <Link to="/addpointqr">
         <img className="ADDPOINTQR" src={Addpoint3} alt="button" />
       </Link>
-      <Link to="/getmaskqr">
+      <Link to="/getmaskqr" className="nav2">
         <img className="GETMASKQR" src={Getmask1} alt="button" />
       </Link>
     </div>

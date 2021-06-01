@@ -1,15 +1,11 @@
 .slider {
   width: 100%;
 
-  //padding: 0 50rem 0 50rem;
-  //@media screen and (max-width: 1360px) {
-  //  padding: 0px 0px 0px 0px;
-  //}
   p {
     position: relative;
     z-index: 0;
     top: 0;
-    height: 15rem;
+    height: 5rem;
     font-size: 30px;
     padding: 0px 0px 0px 70px;
     @media screen and (max-width: 1024px) {
@@ -18,220 +14,75 @@
     }
   }
 
+  * p {
+    font-size: 15px;
+    padding: 30px 0px 0px 30px;
+    color: #626b77;
+  }
+
+  .title0 {
+    font-size: 18px;
+    padding: 20px 0px 30px 30px;
+    color: #626b77;
+  }
+  .title1 {
+    font-weight: 500;
+    color: #626b77;
+    padding: 0px 0px 3px 30px;
+    font-size: 15px;
+  }
+  .title2 {
+    padding: 0px 0px 30px 30px;
+  }
+  img {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    width: 137px;
+    height: 133px;
+    padding: 90px 0px 30px 30px;
+  }
+
   .promotion1 {
     background-color: #d0ebf8;
-    p {
-      padding: 25px 0rem 0px 70rem;
-      font-size: 60px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 15px;
-        padding: 30px 0px 0px 30px;
-      }
-    }
-    .title0 {
-      font-weight: 500;
-      font-weight: bold;
-      padding: 0px 0px 60px 70rem;
-      font-size: 80px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 18px;
-        padding: 20px 0px 30px 30px;
-      }
-    }
-    .title1 {
-      font-weight: 500;
-      font-size: 60px;
-      padding: 0px 0px 3px 70rem;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 14px;
-        padding: 0px 0px 3px 30px;
-        font-size: 15px;
-      }
-    }
-    .title2 {
-      padding: 10px 0px 300px 70rem;
-      @media screen and (max-width: 1024px) {
-        padding: 0px 0px 30px 30px;
-      }
-    }
-    img {
-      position: absolute;
-      width: 70rem;
-      height: 70rem;
-      right: 20px;
-      top: 50px;
-      padding: 400px 70rem 590px 70rem;
-      @media screen and (max-width: 1366px) {
-        top: 30px;
-        width: 137px;
-        height: 133px;
-        padding: 90px 0px 30px 30px;
-      }
-    }
   }
 
   .promotion2 {
     background-color: #f3fddb;
-    p {
-      padding: 25px 0rem 0px 70rem;
-      font-size: 60px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 15px;
-        padding: 30px 0px 0px 30px;
-      }
-    }
-    .title0 {
-      font-weight: 500;
-      font-weight: bold;
-      padding: 0px 0px 60px 70rem;
-      font-size: 80px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 18px;
-        padding: 20px 0px 30px 30px;
-      }
-    }
     .title1 {
-      font-weight: 500;
-      font-size: 60px;
-
-      padding: 0px 0px 3px 70rem;
       color: #585150;
-      @media screen and (max-width: 1024px) {
-        font-size: 14px;
-        padding: 0px 0px 3px 30px;
-        font-size: 15px;
-      }
-    }
-    .title2 {
-      padding: 10px 0px 300px 70rem;
-      @media screen and (max-width: 1024px) {
-        padding: 0px 0px 30px 30px;
-      }
     }
     img {
       position: absolute;
-
-      width: 55rem;
-      height: 55rem;
+      width: 135px;
+      height: 130px;
+      padding: 60px 0px 30px 30px;
       right: 20px;
       top: 50px;
-      padding: 400px 70rem 590px 70rem;
-      @media screen and (max-width: 1366px) {
-        width: 135px;
-        height: 130px;
-        padding: 60px 0px 30px 30px;
-      }
     }
   }
   .promotion3 {
     background-color: #eac9ec8c;
-    p {
-      padding: 25px 0rem 0px 70rem;
-      font-size: 60px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 15px;
-        padding: 30px 0px 0px 30px;
-      }
-    }
-    .title0 {
-      font-weight: 500;
-      font-weight: bold;
-      padding: 0px 0px 60px 70rem;
-      font-size: 80px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 18px;
-        padding: 20px 0px 30px 30px;
-      }
-    }
-    .title1 {
-      font-weight: 500;
-      font-size: 60px;
-      padding: 0px 0px 3px 70rem;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 14px;
-        padding: 0px 0px 3px 30px;
-        font-size: 15px;
-      }
-    }
-    .title2 {
-      padding: 10px 0px 300px 70rem;
-      @media screen and (max-width: 1024px) {
-        padding: 0px 0px 30px 30px;
-      }
-    }
+
     img {
       position: absolute;
-      width: 50rem;
-      height: 50rem;
+      width: 137px;
+      height: 133px;
+      padding: 100px 0px 30px 30px;
       right: 20px;
       top: 50px;
-      padding: 400px 70rem 590px 70rem;
-      @media screen and (max-width: 1366px) {
-        width: 137px;
-        height: 133px;
-        padding: 100px 0px 30px 30px;
-      }
     }
   }
   .promotion4 {
     background-color: #fcda4272;
-    p {
-      padding: 25px 0rem 0px 70rem;
-      font-size: 60px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 15px;
-        padding: 30px 0px 0px 30px;
-      }
-    }
-    .title0 {
-      font-weight: 500;
-      font-weight: bold;
-      padding: 0px 0px 60px 70rem;
-      font-size: 80px;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 18px;
-        padding: 20px 0px 30px 30px;
-      }
-    }
-    .title1 {
-      font-weight: 500;
-      font-size: 60px;
-      padding: 0px 0px 3px 70rem;
-      color: #626b77;
-      @media screen and (max-width: 1024px) {
-        font-size: 14px;
-        padding: 0px 0px 3px 30px;
-        font-size: 15px;
-      }
-    }
-    .title2 {
-      padding: 10px 0px 300px 70rem;
-      @media screen and (max-width: 1024px) {
-        padding: 0px 0px 30px 30px;
-      }
-    }
+
     img {
       position: absolute;
-      width: 60rem;
-      height: 20rem;
+      width: 200px;
+      height: 100px;
+      padding: 100px 0px 30px 30px;
       right: 20px;
       top: 50px;
-      padding: 400px 70rem 590px 70rem;
-      @media screen and (max-width: 1366px) {
-        width: 200px;
-        height: 100px;
-        padding: 100px 0px 30px 30px;
-      }
     }
   }
 }

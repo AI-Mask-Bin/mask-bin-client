@@ -10,45 +10,30 @@
     }
   }
   img {
-    width: 25%;
-    height: 25%;
-    @media screen and (max-width: 900px) {
-      width: 80%;
-      height: 80%;
-    }
+    width: 80%;
+    height: 80%;
   }
   h2 {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
     color: rgba(5, 21, 21, 0.62);
-    font-size: 90px;
+    font-size: 24px;
     font-weight: 400;
     line-height: 1.33;
-    margin: 100px 0 20px;
-    @media screen and (max-width: 1400px) {
-      font-size: 24px;
-      margin: 10px 0 20px;
-    }
+    margin: 10px 0 20px;
   }
   h3 {
     margin-left: 10px;
     color: #a9d18e;
     font-weight: 300;
     font-size: 100px;
-    @media screen and (max-width: 1400px) {
-      font-size: 24px;
-
-    }
+    font-size: 24px;
   }
   .b {
     color: #61943e;
     font-weight: 700;
-    font-size: 80px;
-    @media screen and (max-width: 1400px) {
-      font-size: 20px;
-    }
+    font-size: 20px;
   }
 }
