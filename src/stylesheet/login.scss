@@ -4,65 +4,44 @@
   align-items: center;
   //top: 180rem;
   width: 100%;
-
+  padding-bottom: 4rem;
   .title-s {
     //width: 80%;
     color: #d6d6d6;
-    font-size: 30px;
-    @media screen and( max-width : 1400px) {
-      font-size: 10px;
-    }
+
+    font-size: 10px;
   }
   .title-b {
     color: #bcc3c3;
     font-weight: 700;
     margin-bottom: 1rem;
-    font-size: 65px;
-    @media screen and( max-width : 1400px) {
-      font-size: 15px;
-    }
+    font-size: 15px;
   }
   img {
-    margin-bottom: 10rem;
-    @media screen and( max-width : 1400px) {
-      width: 5rem;
-      height: 5rem;
-      margin-bottom: 3rem;
-    }
+    width: 5rem;
+    height: 5rem;
+    margin-bottom: 3rem;
   }
   p {
-    margin-top: 30rem;
-    @media screen and( max-width : 1400px) {
-      margin-top: 13rem;
-    }
+    margin-top: 8rem;
   }
   input {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-
     background-color: #fafafa;
     color: #9e9e9e;
-
-    width: 60rem;
-    height: 8rem;
     border-radius: 20px;
-
     display: flex;
     margin: 0px auto;
-
     cursor: text;
     margin-bottom: 1.5%;
-
     border: 1px solid #dbdbdb;
     border-radius: 3px;
-    font-size: 100px;
-    @media screen and( max-width : 1400px) {
-      width: 250px;
-      height: 38px;
-      margin-bottom: 3%;
-      font-size: 15px;
-    }
+    width: 250px;
+    height: 38px;
+    margin-bottom: 3%;
+    font-size: 15px;
   }
 
   input:active {
@@ -76,30 +55,21 @@
     color: #a0a0a0;
     margin-left: 0.3 rem;
     opacity: 1;
-    font-size: 42px;
-    @media screen and( max-width : 1400px) {
-      font-size: 12px;
-    }
+    font-size: 12px;
   }
   input::-webkit-input-placeholder {
     color: #a0a0a0;
     margin-left: 0.3 rem;
     opacity: 1;
-    font-size: 42px;
     display: flex;
     align-items: center;
-    @media screen and( max-width : 1400px) {
-      font-size: 12px;
-    }
+    font-size: 12px;
   }
   input::-moz-placeholder {
     color: #a0a0a0;
     margin-left: 0.3 rem;
     opacity: 1;
-    font-size: 42px;
-    @media screen and( max-width : 1400px) {
-      font-size: 12px;
-    }
+    font-size: 12px;
   }
 
   button {
@@ -107,7 +77,6 @@
     -moz-appearance: none;
     appearance: none;
 
-    font-size: 3rem;
     font-weight: 400;
     color: #ffff;
 
@@ -128,13 +97,11 @@
 
     width: 60rem;
     height: 7rem;
-    @media screen and( max-width : 1400px) {
-      width: 250px;
-      height: 34px;
-      font-size: 1rem;
-      font-weight: 600;
-      margin-bottom: 10px;
-    }
+    width: 250px;
+    height: 34px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
   }
   button:hover {
     color: #61943e;
