@@ -10,14 +10,11 @@ const LogIn = () => {
       <p></p>
       <div className="title-s">protect HUMAN, JANITOR,</div>
       <div className="title-s">and NATURE from COVID - 19 </div>
-     
+
       <div className="title-b">AGAINST VARIANT CORONA</div>
       <img src={Tropical} />
-   
-      <input
-        type="text"
-        placeholder="   로그인 버튼만 누르면 바로 로그인"
-      ></input>
+
+      <input type="text" placeholder="로그인"></input>
       <input type="password" placeholder="   비밀번호"></input>
       <Link to="/mask-bin-client">
         <button>로그인</button>
