@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mask-bin-client/static/css/main.1a17fcfc.chunk.css",
-    "main.js": "/mask-bin-client/static/js/main.b8842799.chunk.js",
-    "main.js.map": "/mask-bin-client/static/js/main.b8842799.chunk.js.map",
+    "main.css": "/mask-bin-client/static/css/main.41693844.chunk.css",
+    "main.js": "/mask-bin-client/static/js/main.cb49fa48.chunk.js",
+    "main.js.map": "/mask-bin-client/static/js/main.cb49fa48.chunk.js.map",
     "runtime-main.js": "/mask-bin-client/static/js/runtime-main.d0899c62.js",
     "runtime-main.js.map": "/mask-bin-client/static/js/runtime-main.d0899c62.js.map",
     "static/css/2.29aa199f.chunk.css": "/mask-bin-client/static/css/2.29aa199f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9f223bad.chunk.js.map": "/mask-bin-client/static/js/3.9f223bad.chunk.js.map",
     "index.html": "/mask-bin-client/index.html",
     "static/css/2.29aa199f.chunk.css.map": "/mask-bin-client/static/css/2.29aa199f.chunk.css.map",
-    "static/css/main.1a17fcfc.chunk.css.map": "/mask-bin-client/static/css/main.1a17fcfc.chunk.css.map",
+    "static/css/main.41693844.chunk.css.map": "/mask-bin-client/static/css/main.41693844.chunk.css.map",
     "static/js/2.a3044ff6.chunk.js.LICENSE.txt": "/mask-bin-client/static/js/2.a3044ff6.chunk.js.LICENSE.txt",
     "static/media/LOGO4_mob.c706e76f.png": "/mask-bin-client/static/media/LOGO4_mob.c706e76f.png",
     "static/media/addpoint3.aa498ea9.png": "/mask-bin-client/static/media/addpoint3.aa498ea9.png",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.d0899c62.js",
     "static/css/2.29aa199f.chunk.css",
     "static/js/2.a3044ff6.chunk.js",
-    "static/css/main.1a17fcfc.chunk.css",
-    "static/js/main.b8842799.chunk.js"
+    "static/css/main.41693844.chunk.css",
+    "static/js/main.cb49fa48.chunk.js"
   ]
 }
