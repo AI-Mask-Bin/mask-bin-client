@@ -15,10 +15,6 @@ const Home = () => {
   return (
     <div className="home-layout">
       <Promotion />
-      <div className="time">
-        <img src={Clock} alt="clock" />
-        {nowTime} 기준
-      </div>
       <div className="title">
         나의 마스크 <div className="green">포인트 현황</div>
       </div>
@@ -48,6 +44,10 @@ const Home = () => {
           <img src={baby} alt="babylogo" />
           재활용level<div className="bolded">새싹단계</div>
         </div>
+      </div>
+      <div className="time">
+        <img src={Clock} alt="clock" />
+        {nowTime} 기준
       </div>
       <div className="my-button">
         <div className="button-t" onClick={onClick}>
