@@ -47,5 +47,5 @@
     "gh-pages": "^3.2.0",
     "node-sass": "^6.0.0"
   },
-  "homepage": "http://ai-mask-bin.github.io/mask-bin-client/"
+  "homepage": "https://ai-mask-bin.github.io/mask-bin-client/"
 }
